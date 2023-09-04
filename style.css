@@ -4,4 +4,16 @@ h1{
     background-color: pink;
     font-family: 'Rubik', sans-serif;
     text-transform: capitalize;
+    font-weight: 200;
+}
+h2{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 200;
+}
+p{
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.skills{
+    font-family: sans-serif;
 }
